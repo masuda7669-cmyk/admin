@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "Owner key",
       "userRank": "Supreme User"
+    },
+    "DPMods-NCBVOR": {
+      "hwid": "B902D7B5C13594C2",
+      "expireDate": "2026-06-07",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
