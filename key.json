@@ -31,12 +31,11 @@
       "freezeAccount": false
     },
     "DPMods-Z50FZH": {
-      "hwid": "B8763C974CAA6DE6",
-      "expireDate": "2026-06-03",
+      "hwid": "0708CF9DAD695EAD",
+      "expireDate": "Life",
       "isBanned": false,
       "banReason": "Test Key",
-      "userRank": "Supreme User",
-      "freezeAccount": false
+      "userRank": "Supreme User"
     }
   }
 }
