@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "Test owner",
       "userRank": "Supreme User"
+    },
+    "DPMods-GQ9PA0": {
+      "hwid": "B902D7B5C13594C2",
+      "expireDate": "2026-06-07",
+      "isBanned": false,
+      "banReason": "Test nabil",
+      "userRank": "Nabil User"
     }
   }
 }
